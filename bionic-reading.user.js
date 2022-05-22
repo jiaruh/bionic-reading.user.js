@@ -29,7 +29,7 @@ if(/weibo/.test(location.hostname)){
 const styleEl = document.createElement('style');
 styleEl.innerHTML = `
 bbb{
-    font-weight:bold;
+    font-weight:650;
     opacity: 1;
 }
 html[data-site="greasyfork"] a bionic{
